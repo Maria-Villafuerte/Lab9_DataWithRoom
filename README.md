@@ -1,4 +1,29 @@
-# Lab9_DataWithRoom
+Inventory app
+==================================
 
-En este codelab, trabajarás con un código de partida de la app de Inventory y le agregarás la capa de la base de datos con la biblioteca de Room. La versión final de la app mostrará una lista de elementos de la base de datos de inventario. El usuario tendrá opciones para agregar un elemento nuevo, actualizar uno existente y borrarlo de la base de datos de inventario. En este codelab, guardarás los datos del elemento en la base de datos de Room. Completarás el resto de la funcionalidad de la app en el siguiente codelab.
+Solution code for Android Basics with Compose.
 
+Introduction
+------------
+
+This app is an Inventory tracking app. Demos how to add, update, sell, and delete items from the local database.
+This app demonstrated the use of Android Jetpack component [Room](https://developer.android.com/training/data-storage/room) database.
+The app also leverages [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel),
+[Flow](https://developer.android.com/kotlin/flow),
+and [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/).
+
+Pre-requisites
+--------------
+
+You need to know:
+- How to create and use composables.
+- How to navigate between composables, and pass data between them.
+- How to use architecture components including ViewModel, Flow, StateFlow and StateUi.
+- How to use coroutines for long-running tasks.
+- SQLite database and the SQLite query language
+
+
+Getting Started
+---------------
+
+1. Download and run the app.
